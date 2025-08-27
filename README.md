@@ -12,7 +12,8 @@
 
 ## Tableau Dashboard
 
-Link: []
+Link: - https://public.tableau.com/app/profile/ricardo.cortes4958/viz/freight_analysis_dash_data/Dashboard1
+	  - https://public.tableau.com/app/profile/ricardo.cortes4958/viz/freight_analysis_Correlation_Analysis/Dashboard2?publish=yes
 
 ## Motivation
 
