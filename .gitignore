@@ -138,3 +138,6 @@ dmypy.json
 *.twb
 *.twbx
 *.twbr
+
+#viz
+*.png
